@@ -3,7 +3,18 @@
     height: 100px;
 }
 
-.img-wrapper img{
+.img-wrapper img {
     width: 100%;
-    height:  100%;
+    height: 100%;
+}
+
+.img-wrapper2 {
+    height: 400px;
+    width: 600px;
+}
+
+.img-wrapper2 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
 }
